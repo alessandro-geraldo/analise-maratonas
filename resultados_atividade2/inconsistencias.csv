@@ -1,0 +1,24 @@
+,quantidade
+Age: <= 0,0
+5K: <= 0,0
+10K: <= 0,0
+15K: <= 0,0
+20K: <= 0,0
+HALF: <= 0,0
+25K: <= 0,0
+30K: <= 0,0
+35K: <= 0,0
+40K: <= 0,0
+Finish Net: <= 0,0
+Age fora da faixa plausível 18–100 (para revisão),0
+Year fora de 2021–2024,0
+Tempo decrescente 5K > 10K,0
+Tempo decrescente 10K > 15K,0
+Tempo decrescente 15K > 20K,0
+Tempo decrescente 20K > HALF,0
+Tempo decrescente HALF > 25K,0
+Tempo decrescente 25K > 30K,0
+Tempo decrescente 30K > 35K,0
+Tempo decrescente 35K > 40K,0
+Tempo decrescente 40K > Finish Net,2
+Sexo fora de M/F ou ausente,70
